@@ -20,10 +20,3 @@ Java Base Web Developer
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
-
-## GOAL AS DEVELOPER
-- Full Stack Developer
-- Project Manager
-- Big Data Engineer
-- Machin Learing Engineer
-- Talent Donate For Kids
