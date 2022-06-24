@@ -8,7 +8,7 @@ Java Base Web Developer
 ![Eclips](https://img.shields.io/badge/Eclips-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSC](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
-> DBMS  
+> RDBMS  
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 > Server  
 ![apache_tomcat](https://img.shields.io/badge/apache_tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)  
