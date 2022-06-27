@@ -1,4 +1,5 @@
 # Hello World, I`m inbeom
+I live in Seoul, Korea
 Java Base Web Developer
 
 ## DEVELOP WITH
