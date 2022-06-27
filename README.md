@@ -1,8 +1,9 @@
 # Hello World, I`m inbeom
 I live in Seoul, Korea  
-Java Base Web Developer
+Java Base Web Developer  
+I Developed since 21.11.23
 
-## DEVELOP WITH
+## DEVELOP WIH
 > OS  
 ![WINDOWS](https://img.shields.io/badge/WINDOWS10-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 > Tools  
