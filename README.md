@@ -1,7 +1,7 @@
 # Hello World, I`m inbeom
 I live in Seoul, Korea  
 Java Base Web Developer  
-I Developed since 22.1.23
+Developed since 22.1.23
 
 ## DEVELOP WIH
 > OS  
