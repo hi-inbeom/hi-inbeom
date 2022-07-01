@@ -22,6 +22,7 @@ Developed since 22.1.23
 ![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=JSP&logoColor=white)
+![servlet](https://img.shields.io/badge/servlet-000000?style=for-the-badge&logo=servlet&logoColor=white)
 ![ajax](https://img.shields.io/badge/ajax-000000?style=for-the-badge&logo=ajax&logoColor=white)  
 > Library  
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
